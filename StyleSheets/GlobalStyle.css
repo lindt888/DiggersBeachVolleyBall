@@ -1,0 +1,56 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@charset "UTF-8";
+/* CSS Document */
+
+#Container {
+	width: 1850px;
+	background-color: #CFF;
+	margin: auto;
+	text-align: center;
+}
+#Header {
+	width: 100%;
+	font-family: "Comic Sans MS", cursive;
+	font-size: xx-large;
+	color: #C66;
+	background-color: #CFC;
+	text-align: center;
+}
+#Nav {
+	width: 100%;
+	background-color: #6F9;
+}
+#Content {
+	width: 100%;
+	float: left;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+}
+#Footer {
+	background-color: #CFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: underline;
+	text-align: center;
+	color: #000;
+}
+#Container #Nav table tr td {
+	text-align: center;
+}
+#Container #Nav table {
+	font-size: 12px;
+}
+#Container #Nav table {
+	font-size: 14px;
+}
+#Container #Nav table {
+	font-family: Arial, Helvetica, sans-serif;
+}
+#Container {
+	text-align: left;
+}
+#Container h2 strong {
+	text-align: justify;
+}

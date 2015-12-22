@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../StyleSheets/GlobalStyle.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="Container">
+  <header>
+    <div id="Header">Diggers Beach Volleyball</div>
+  </header>
+  <nav>
+    <div id="Nav">
+      <table width="1851" border="1">
+        <tr>
+          <td width="246"><a href="../aboutvolleyball.html">About Volleyball</a></td>
+          <td width="246"><a href="../whocanplay.html">Who Can Play</a></td>
+          <td width="246"><a href="../playingguidelines.html">Playing Guidelines</a></td>
+          <td width="246"><a href="../announcements.html">Announcements</a></td>
+          <td width="246"><a href="../contacts.html">Contacts</a></td>
+          <td width="246"><a href="../links.html">Links</a></td>
+          <td width="246"><a href="../signup.html">Sign-up</a></td>
+        </tr>
+      </table>
+    </div>
+  </nav>
+  <section>
+    <div id="Content"><!-- TemplateBeginEditable name="Content" --><!-- TemplateEndEditable --></div>
+  </section>
+  <footer>
+    <div id="Footer">
+      <p><a href="../index.html">Back To Main Menu</a></p>
+      <p>Copyright All Right Reserved</p>
+    </div>
+  </footer>
+</div>
+</body>
+</html>
